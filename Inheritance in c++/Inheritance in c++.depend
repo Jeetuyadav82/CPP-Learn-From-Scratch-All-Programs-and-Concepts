@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1587711744 source:c:\users\jeetu\ideaprojects\c++ from code block\inheritance in c++\src\mother.cpp
+	"mother.h"
+	<iostream>
+
+1587711984 c:\users\jeetu\ideaprojects\c++ from code block\inheritance in c++\include\mother.h
+
+1587711794 source:c:\users\jeetu\ideaprojects\c++ from code block\inheritance in c++\main.cpp
+	<iostream>
+	"mother.h"
+	"daughter.h"
+
+1587712069 c:\users\jeetu\ideaprojects\c++ from code block\inheritance in c++\include\daughter.h
+
+1587711984 source:c:\users\jeetu\ideaprojects\c++ from code block\inheritance in c++\src\daughter.cpp
+	"mother.h"
+	"daughter.h"
+

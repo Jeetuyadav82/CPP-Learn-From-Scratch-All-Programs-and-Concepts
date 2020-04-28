@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1587625623 source:c:\users\jeetu\ideaprojects\c++ from code block\composition in c++\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1587626165 c:\users\jeetu\ideaprojects\c++ from code block\composition in c++\include\birthday.h
+
+1587626844 source:c:\users\jeetu\ideaprojects\c++ from code block\composition in c++\src\people.cpp
+	"people.h"
+	"Birthday.h"
+	<iostream>
+
+1587626843 c:\users\jeetu\ideaprojects\c++ from code block\composition in c++\include\people.h
+	"Birthday.h"
+	<string>
+
+1587626931 source:c:\users\jeetu\ideaprojects\c++ from code block\composition in c++\main.cpp
+	<iostream>
+	"People.h"
+	"Birthday.h"
+
